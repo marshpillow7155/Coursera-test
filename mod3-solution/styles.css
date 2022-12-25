@@ -1,0 +1,52 @@
+* {
+	color: black;
+}
+body {
+font-family: arial rounded mt, sans-serif;
+}
+
+.container-fluid {
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.navbar {
+background-color: lightgrey;
+border: solid black;
+border-width:  2px 0 2px 0;
+}
+
+.navbar-brand {
+text-align: left;
+font-size: 1.5em;
+font-weight: bold;
+}
+
+.nav-item{
+	background-color: lightgoldenrodyellow;
+	font-size: 1em;
+	text-align: center;
+	padding: 10px;
+	border: solid black;
+	border-width: 1px 0 1px 0;
+	border-collapse: collapse;
+}
+
+p {
+font-size: 1.5em;
+}
+
+.chicken {
+font-size: 1.25em;
+}
+
+.dummy-text {
+font-size: 1em;
+}
+
+.maintext {
+	background-color: lightgrey;
+	margin: 2%;
+	width: 95%;
+	height: 1000px;
+}
